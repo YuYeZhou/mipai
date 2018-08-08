@@ -1,0 +1,23 @@
+{
+  "code": 0,
+  "data": {
+    "banners": [
+      {
+        "id": 0,       
+        "url": "../../../../static/banners/banner_1.png"
+      }, {
+        "id": 1,        
+        "url": "../../../../static/banners/banner_2.png"
+      }, {
+        "id": 2,        
+        "url": "../../../../static/banners/banner_3.png"
+      }, {
+        "id": 4,        
+        "url": "../../../../static/banners/banner_4.png"
+      }, {
+        "id": 5,        
+        "url": "../../../../static/banners/banner_5.png"
+      }
+    ]
+  }  
+}

@@ -1,0 +1,28 @@
+{
+  "code": 0,
+  "data": {
+    "homeicons": [
+      {
+        "id": 0,
+        "title": "活动",
+        "desc": "米拍发放高温补贴",
+        "src": "../../../../static/icons/activities.jpg"
+      }, {
+        "id": 1,
+        "title": "必读",
+        "desc": "100个城市的一张图",
+        "src": "../../../../static/icons/reading.jpg"
+      }, {
+        "id": 2,
+        "title": "公开课",
+        "desc": "大热蓝调片子如何调",
+        "src": "../../../../static/icons/courses.jpg"
+      }, {
+        "id": 3,
+        "title": "问答",
+        "desc": "关于长曝光降噪",
+        "src": "../../../../static/icons/quora.jpg"
+      }
+    ]
+  }  
+}

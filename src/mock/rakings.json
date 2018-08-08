@@ -1,0 +1,48 @@
+{
+  "code": 0,
+  "data": {
+    "rakings": [
+      {
+        "id": 0,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_1.jpg"
+      },  {
+        "id": 2,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_3.jpg"
+      }, {
+        "id": 4,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_4.jpg"
+      }, {
+        "id": 6,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_5.jpg"
+      }, {
+        "id": 8,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_6.jpg"
+      }, {
+        "id": 1,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_2.jpg"
+      },{
+        "id": 3,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_7.jpg"
+      }, {
+        "id": 5,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_8.jpg"
+      }, {
+        "id": 7,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_9.jpg"
+      }, {
+        "id": 9,
+        "name": "@cname()", 
+        "src": "../../../../static/rakings/raking_10.jpg"
+      }
+    ]
+  }  
+}

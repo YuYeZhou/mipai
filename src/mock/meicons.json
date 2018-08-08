@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "meicons": [
+      {
+        "id": 0,
+        "title": "评论",
+        "src": "../../../../static/icons/coments.png"
+      }, {
+        "id": 1,
+        "title": "提及",
+        "src": "../../../../static/icons/reference.png"
+      }, {
+        "id": 2,
+        "title": "私信",
+        "src": "../../../../static/icons/texts.png"
+      }, {
+        "id": 3,
+        "title": "通知",
+        "src": "../../../../static/icons/message.png"
+      }
+    ]
+  }  
+}
